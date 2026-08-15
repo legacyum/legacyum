@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=ALESSANDRO%20ALTAMIRANO&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Ingenieria%20Industrial%20%7C%20Analisis%20de%20Datos%20%7C%20Automatizacion&descAlignY=62&descAlign=50&descSize=16" width="100%" />
+
 ```text
    ___  _                            _           
   / _ \| |                          | |          
@@ -10,7 +12,7 @@
 ```
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Practicante+de+Datos;Estudiante+de+Ing.+Industrial;Automatizacion+de+Procesos" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Practicante+de+Gestion+Documental+y+Datos;Estudiante+de+Ing.+Industrial+(9no+ciclo);Automatizacion+de+Procesos;Python+%7C+SQL+%7C+Power+BI+%7C+Power+Automate+%7C+n8n" alt="Typing SVG" />
 </a>
 
 </div>
@@ -20,16 +22,16 @@
 ### Sobre Mi
 
 - Estudiante de **Ingenieria Industrial** (9no ciclo) en la Universidad Continental.
-- **Practicante** en Gestion Documental y Datos, enfocado en optimizacion logistica, modelado y automatizacion de procesos.
-- Desarrollo de flujos y procesos continuos mediante **Power Automate** y **n8n**.
+- **Practicante** en Gestion Documental y Analisis de Datos, enfocado en optimizacion logistica, modelado y transformacion de procesos.
+- Desarrollo e implementacion de flujos continuos y automatizaciones con **Power Automate**, **n8n** y **Python**.
 
 ---
 
-### Stack Tecnologico
+### Stack Tecnologico y Herramientas
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgres,html,css,git&theme=dark" alt="Skillicons" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,git,github,vscode,html,css&theme=dark" alt="Skillicons" />
+</p>
 
 <br>
 
@@ -42,10 +44,16 @@
 
 ---
 
-### Estadisticas de GitHub
+### Conectemos
+
+<p align="center">
+<a href="https://linkedin.com/in/alessandroaltamirano">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+</p>
+
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=legacyum&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=legacyum&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=90&section=footer" width="100%" />
 </div>
