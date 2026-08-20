@@ -28,7 +28,7 @@ jobs:
           max-cols: 8
           max-rows: 1
           margin-width: 29
-          margin-height: 8
+          margin-height: 200
           no-background: true
           no-frame: true
 
