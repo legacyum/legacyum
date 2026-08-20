@@ -1,59 +1,75 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=ALESSANDRO%20ALTAMIRANO&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Ingenieria%20Industrial%20%7C%20Analisis%20de%20Datos%20%7C%20Automatizacion&descAlignY=62&descAlign=50&descSize=16" width="100%" />
-
-```text
-   ___  _                            _           
-  / _ \| |                          | |          
- / /_\ \ | ___  ___ ___  __ _ _ __  | |__   ___  
- |  _  | |/ _ \/ __/ __|/ _` | '_ \ | '_ \ / _ \ 
- | | | | |  __/\__ \__ \ (_| | | | || | | | (_) |
- \_| |_/_|\___||___/___/\__,_|_| |_||_| |_|\___/ 
-```
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Practicante+de+Gestion+Documental+y+Datos;Estudiante+de+Ing.+Industrial+(9no+ciclo);Automatizacion+de+Procesos;Python+%7C+SQL+%7C+Power+BI+%7C+Power+Automate+%7C+n8n" alt="Typing SVG" />
-</a>
-
+<div data-importer="image" align="center">
+  <img data-importer="image" height="284" src="https://i.pinimg.com/1200x/e3/d6/1f/e3d61f153cb602b0af6d0727e25cc516.jpg"  />
 </div>
 
----
+###
 
-### Sobre Mi
+<br clear="both">
 
-- Estudiante de **Ingenieria Industrial** (9no ciclo) en la Universidad Continental.
-- **Practicante** en Gestion Documental y Analisis de Datos, enfocado en optimizacion logistica, modelado y transformacion de procesos.
-- Desarrollo e implementacion de flujos continuos y automatizaciones con **Power Automate**, **n8n** y **Python**.
+<h1 data-importer="text" align="center">Alessandro Altamirano</h1>
 
----
+###
 
-### Stack Tecnologico y Herramientas
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgres,mysql,git,github,vscode,html,css&theme=dark" alt="Skillicons" />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate" />
-  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-</p>
-
----
-
-### Conectemos
-
-<p align="center">
-<a href="https://linkedin.com/in/alessandroaltamirano">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-</p>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=90&section=footer" width="100%" />
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/Legacyum/Legacyum/stats-output/stats.svg?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=es&hide_border=true&order=1" height="140" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/Legacyum/Legacyum/languages-output/languages.svg?locale=es&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=rose_pine&hide_border=true&order=2" height="184" alt="languages graph"  />
 </div>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Legacyum/Legacyum/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Legacyum/Legacyum/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Legacyum/Legacyum/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+</picture>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/Legacyum/Legacyum/activity-graph-output/activity-graph.svg?radius=9&theme=modern-lilac&area=true&order=5&hide_border=true&hide_title=true" height="20" alt="activity-graph graph" /> <br>
+  <img src="https://raw.githubusercontent.com/Legacyum/Legacyum/trophy-output/trophy.svg?theme=dark_lover&column=8&row=1&margin-w=29&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://count.getloli.com/@:Legacyum?theme=ai-1&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+</div>
+
+###
+
+<div data-importer="techs" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="python logo"  />
+  <img width="17" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" height="36" alt="anaconda logo"  />
+  <img width="17" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" alt="java logo"  />
+  <img width="17" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="javascript logo"  />
+  <img width="17" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="css logo"  />
+  <img width="17" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="html5 logo"  />
+  <img width="17" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" height="36" alt="sqlite logo"  />
+  <img width="17" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="36" alt="cplusplus logo"  />
+  <img width="17" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="36" alt="jupyter logo"  />
+  <img width="17" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" height="36" alt="kaggle logo"  />
+  <img width="17" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="36" alt="r logo"  />
+  <img width="17" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="36" alt="pandas logo"  />
+</div>
+
+###
+
+<div data-importer="socials" align="center">
+  <a href="www.linkedin.com/in/alessandroaltamirano" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
