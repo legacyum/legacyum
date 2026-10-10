@@ -19,7 +19,7 @@ jobs:
 
     steps:
       - name: generate trophy.svg
-        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        uses: Erik-Donath/github-profile-trophy@eb0893b31de06841663555d10aa43eb7cf27952f # pinned to feature/generate-svg HEAD for supply-chain safety
         with:
           username: ${{ github.repository_owner }}
           file: dist/trophy.svg
