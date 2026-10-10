@@ -1,5 +1,5 @@
 <div data-importer="image" align="center">
-  <img data-importer="image" height="284" src="https://i.pinimg.com/1200x/e3/d6/1f/e3d61f153cb602b0af6d0727e25cc516.jpg"  />
+  <img data-importer="image" height="284" src="https://i.pinimg.com/1200x/e3/d6/1f/e3d61f153cb602b0af6d0727e25cc516.jpg" alt="Imagen de banner del perfil" />
 </div>
 
 ###
@@ -33,34 +33,34 @@
 ###
 
 <div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://count.getloli.com/@:Legacyum?theme=ai-1&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+  <img data-importer="profile-views" src="https://count.getloli.com/@:Legacyum?theme=ai-1&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" alt="Contador de visitas del perfil" />
 </div>
 
 ###
 
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="python logo"  />
-  <img width="17" />
+  <img width="17" alt="" aria-hidden="true" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg" height="36" alt="anaconda logo"  />
-  <img width="17" />
+  <img width="17" alt="" aria-hidden="true" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" alt="java logo"  />
-  <img width="17" />
+  <img width="17" alt="" aria-hidden="true" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="javascript logo"  />
-  <img width="17" />
+  <img width="17" alt="" aria-hidden="true" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="css logo"  />
-  <img width="17" />
+  <img width="17" alt="" aria-hidden="true" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="html5 logo"  />
-  <img width="17" />
+  <img width="17" alt="" aria-hidden="true" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" height="36" alt="sqlite logo"  />
-  <img width="17" />
+  <img width="17" alt="" aria-hidden="true" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="36" alt="cplusplus logo"  />
-  <img width="17" />
+  <img width="17" alt="" aria-hidden="true" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="36" alt="jupyter logo"  />
-  <img width="17" />
+  <img width="17" alt="" aria-hidden="true" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" height="36" alt="kaggle logo"  />
-  <img width="17" />
+  <img width="17" alt="" aria-hidden="true" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="36" alt="r logo"  />
-  <img width="17" />
+  <img width="17" alt="" aria-hidden="true" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="36" alt="pandas logo"  />
 </div>
 
