@@ -27,7 +27,7 @@
 
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/Legacyum/Legacyum/activity-graph-output/activity-graph.svg?radius=9&theme=modern-lilac&area=true&order=5&hide_border=true&hide_title=true" height="20" alt="activity-graph graph" /> <br>
-  <img src="https://raw.githubusercontent.com/Legacyum/Legacyum/trophy-output/trophy.svg?theme=dark_lover&column=8&row=1&margin-w=29&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <!-- trophy.svg removed: the workflow that generated it is disabled and the image was 404 -->
 </div>
 
 ###
